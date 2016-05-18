@@ -1,1 +1,7 @@
-{}
+{
+	"formation": {
+		"web": {
+			"quantity": 0
+		}
+	}
+}
